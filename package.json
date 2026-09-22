@@ -2,10 +2,10 @@
   "name": "ohm-music-player",
   "version": "1.0.0",
   "description": "Ohm - Modern Aesthetic Web Music Player with Audio Visualizer",
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "build": "echo 'Static build ready'"
   },
   "keywords": [
     "music-player",

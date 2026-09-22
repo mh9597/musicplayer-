@@ -138,8 +138,11 @@ document.addEventListener('DOMContentLoaded', async function () {
         // Try server API first if running over http
         if (window.location.protocol.startsWith('http')) {
             try {
-                const res = await fetch('/api/songs');
-                if (res.ok) {
+                let res = await fetch('/api/songs').catch(() => null);
+                if (!res || !res.ok) {
+                    res = await fetch('/songs.json').catch(() => null);
+                }
+                if (res && res.ok) {
                     const data = await res.json();
                     if (Array.isArray(data) && data.length > 0) {
                         songs = data;
