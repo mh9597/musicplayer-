@@ -1,0 +1,7 @@
+# Ignore backend server files on Vercel so it builds as a high-performance static site
+*.php
+server.js
+package.json
+package-lock.json
+README.md
+.git*
