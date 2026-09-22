@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Gulabi Aankhen",
+    "artist": "SANAM",
+    "featuring": "Sanam Puri",
+    "album": "Universally SANAM",
+    "duration": 225,
+    "lyrics": "Gulaabi aankhen jo teri dekhi, sharabi yeh dil ho gaya... Sambhalo mujhko o mere yaaro, sambhalna mushkil ho gaya! Dil mein mere khwaab tere, tasveer jaise ho deewaar pe.",
+    "cover_image": "covers/cover_1758376364_68ceb1ac311c5.jpg",
+    "audio_file": "music/audio_1758376364_68ceb1ac31a34.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Main Agar Kahoon",
+    "artist": "Sonu Nigam & Shreya Ghoshal",
+    "featuring": "Vishal-Shekhar",
+    "album": "Om Shanti Om",
+    "duration": 328,
+    "lyrics": "Tumko paya hai to jaise khoya hoon, kehna chahoon bhi to tumse kya kahoon... Kisi zabaan mein bhi, woh lafz hi nahi, ki jinme tum ho kya tumhe bata sakoon.",
+    "cover_image": "covers/cover_1758376646_68ceb2c680363.png",
+    "audio_file": "music/audio_1758376646_68ceb2c680422.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Aankhon Mein Teri Ajab Si",
+    "artist": "KK",
+    "featuring": "Vishal-Shekhar",
+    "album": "Om Shanti Om",
+    "duration": 261,
+    "lyrics": "Aankhon mein teri ajab si, ajab si adayein hain... Dil ko bana de jo patang saansein ye teri wo hawayein hain. Aayi aisi raat hai jo, behke behke jazbaat hain.",
+    "cover_image": "covers/cover_1758377106_68ceb492135d7.png",
+    "audio_file": "music/audio_1758377106_68ceb49213823.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Qaafirana",
+    "artist": "Arijit Singh & Nikhita Gandhi",
+    "featuring": "Amit Trivedi",
+    "album": "Kedarnath",
+    "duration": 375,
+    "lyrics": "Inna sona kyun Rabb ne banaya... Aise tum mile ho, aise tum mile ho, jaise mil rahi ho itar se hawa... Qaafirana sa hai, ishq hai ya kya hai?",
+    "cover_image": "covers/cover_1758378731_68cebaeb54f53.png",
+    "audio_file": "music/audio_1758378731_68cebaeb55038.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Gulaabo",
+    "artist": "Vishal Dadlani & Amit Trivedi",
+    "featuring": "Anusha Mani",
+    "album": "Shaandaar",
+    "duration": 299,
+    "lyrics": "Hey hey hey hey... Gulaabo zara itar gira do! Hey hey hey hey... Taal se taal mila do! Suraj ko daanto, sheetal kar do ji... Taaron ke pehle aane ki baari hai.",
+    "cover_image": "covers/cover_gulaabo.svg",
+    "audio_file": "music/Gulaabo - Full Video_ Shaandaar _ Alia Bhatt & Shahid Kapoor _ Vishal Dadlani _ Amit Trivedi.mp3"
+  }
+]
